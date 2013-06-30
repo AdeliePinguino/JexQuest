@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1372548141 source:c:\users\april\desktop\jexquest\main.cpp
+	<algorithm>
+	<iostream>
+	<string>
+	<iomanip>
+
