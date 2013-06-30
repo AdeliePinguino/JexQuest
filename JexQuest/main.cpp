@@ -10,7 +10,8 @@ using namespace std;
 int main()
 {
     int b;
-
+    
+    // Introductory Text
     cout << "Welcome to Jex Quest: The Magical Adventure of the Elven Maiden, Jex!" << endl;
     cout << endl;
     cout << endl;
